@@ -1,22 +1,22 @@
 # Grade-Calculator
-EN
+<p>EN</p>
 
-Grade Calculator writen in Python.
+<p>Grade Calculator writen in Python.</p>
 
-App Have 2 languages 
+<p>App Have 2 languages </p>
 
-app_pl - polish version
-app_en - english version
+<p>app_pl - polish version</p>
+<p>app_en - english version</p>
 
-Type your grades with spaces between each other.
+<p>Type your grades with spaces between each other.</p>
 
-PL
+<p>PL</p>
 
-Kalkulator ocen napisany w Pythonie.
+<p>Kalkulator ocen napisany w Pythonie.</p>
 
-Aplikacja posiada 2 wersje językowe 
+<p>Aplikacja posiada 2 wersje językowe </p>
 
-app_pl - wersja polska
-app_en - wersja angielska
+<p>app_pl - wersja polska</p>
+<p>app_en - wersja angielska</p>
 
-Wpisz swoje oceny ze spacjami między nimi.
+<p>Wpisz swoje oceny ze spacjami między nimi.</p>
