@@ -9,7 +9,7 @@
 <p>app_en - english version</p>
 
 <p>Type your grades with spaces between each other.</p>
-
+<p> !!!Best run in PyCharm!!! </p>
 <p>PL</p>
 
 <p>Kalkulator ocen napisany w Pythonie.</p>
@@ -18,5 +18,7 @@
 
 <p>app_pl - wersja polska</p>
 <p>app_en - wersja angielska</p>
+
+<p> !!!Najlepiej Uruchamiać w Pycharm!!! </p>
 
 <p>Wpisz swoje oceny ze spacjami między nimi.</p>
